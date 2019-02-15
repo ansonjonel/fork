@@ -14,3 +14,4 @@ git checkout master (cambiar a la rama master)
 git rebase upstream/master (añadir commits)
 
 git push -f origin master  (actualizar tu repositorio)
+# tutorial_Sublime
